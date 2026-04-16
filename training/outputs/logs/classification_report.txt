@@ -1,0 +1,19 @@
+BÁO CÁO KẾT QUẢ ĐÁNH GIÁ TRÊN TẬP TEST
+============================================================
+Best epoch: 7
+Best val_f1: 0.8023
+
+Test Accuracy : 0.8280
+Test Precision: 0.7670
+Test Recall   : 0.7819
+Test F1-score : 0.7736
+
+              precision    recall  f1-score   support
+
+    Negative     0.7158    0.7312    0.7234       186
+     Neutral     0.6632    0.7362    0.6978       527
+    Positive     0.9219    0.8784    0.8996      1316
+
+    accuracy                         0.8280      2029
+   macro avg     0.7670    0.7819    0.7736      2029
+weighted avg     0.8358    0.8280    0.8311      2029

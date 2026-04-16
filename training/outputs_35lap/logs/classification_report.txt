@@ -1,0 +1,11 @@
+BÁO CÁO KẾT QUẢ ĐÁNH GIÁ TRÊN TẬP TEST
+============================================================
+              precision    recall  f1-score   support
+
+    Negative     0.7602    0.6989    0.7283       186
+     Neutral     0.7204    0.6357    0.6754       527
+    Positive     0.8801    0.9316    0.9051      1316
+
+    accuracy                         0.8334      2029
+   macro avg     0.7869    0.7554    0.7696      2029
+weighted avg     0.8276    0.8334    0.8293      2029

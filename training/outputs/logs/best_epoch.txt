@@ -1,0 +1,2 @@
+Best epoch: 7
+Best validation F1: 0.8023
