@@ -490,4 +490,5 @@ For detailed information about the model implementation, training results, and t
 
 ---
 
-**Last Updated:** April 2026 | **Model Version:** CNN-BiLSTM-Attention v2
+**Last Updated:** April 2026        | **Model Version:** CNN-BiLSTM-Attention v2
+**Author:** : Tran Nghieu Luan      |  **Contact:**: trngluan.2004@gmail.com 
